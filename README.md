@@ -1,2 +1,4 @@
-# MGB---v1.0
-# MGB---v1.0
+# MGB
+MGB - Web Based Microcontroller Game Builder
+
+## MGB Full Version Coming Soon 2023🤗❤️‍🔥
